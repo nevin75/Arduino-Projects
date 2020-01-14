@@ -1,0 +1,7 @@
+C:\Users\Nevin.Danielson\source\repos\CSharpTut_Interface\CSharpTut_Interface\bin\Debug\CSharpTut_Interface.exe.config
+C:\Users\Nevin.Danielson\source\repos\CSharpTut_Interface\CSharpTut_Interface\bin\Debug\CSharpTut_Interface.exe
+C:\Users\Nevin.Danielson\source\repos\CSharpTut_Interface\CSharpTut_Interface\bin\Debug\CSharpTut_Interface.pdb
+C:\Users\Nevin.Danielson\source\repos\CSharpTut_Interface\CSharpTut_Interface\obj\Debug\CSharpTut_Interface.csprojAssemblyReference.cache
+C:\Users\Nevin.Danielson\source\repos\CSharpTut_Interface\CSharpTut_Interface\obj\Debug\CSharpTut_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Nevin.Danielson\source\repos\CSharpTut_Interface\CSharpTut_Interface\obj\Debug\CSharpTut_Interface.exe
+C:\Users\Nevin.Danielson\source\repos\CSharpTut_Interface\CSharpTut_Interface\obj\Debug\CSharpTut_Interface.pdb

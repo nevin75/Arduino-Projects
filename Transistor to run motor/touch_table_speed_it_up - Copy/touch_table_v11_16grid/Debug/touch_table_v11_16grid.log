@@ -1,0 +1,8 @@
+﻿Build started 9/22/2015 9:01:34 PM.
+     1>Project "C:\Users\Nevin.Danielson\Desktop\Dropbox\Arduino\touch_table_speed_it_up\touch_table_v11_16grid\touch_table_v11_16grid.vcxproj" on node 3 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(366,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>Done Building Project "C:\Users\Nevin.Danielson\Desktop\Dropbox\Arduino\touch_table_speed_it_up\touch_table_v11_16grid\touch_table_v11_16grid.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.25

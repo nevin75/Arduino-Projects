@@ -1,0 +1,7 @@
+C:\Users\Nevin.Danielson\source\repos\WarriorBattle\WarriorBattle\obj\Debug\WarriorBattle.csprojAssemblyReference.cache
+C:\Users\Nevin.Danielson\source\repos\WarriorBattle\WarriorBattle\obj\Debug\WarriorBattle.csproj.CoreCompileInputs.cache
+C:\Users\Nevin.Danielson\source\repos\WarriorBattle\WarriorBattle\bin\Debug\WarriorBattle.exe.config
+C:\Users\Nevin.Danielson\source\repos\WarriorBattle\WarriorBattle\bin\Debug\WarriorBattle.exe
+C:\Users\Nevin.Danielson\source\repos\WarriorBattle\WarriorBattle\bin\Debug\WarriorBattle.pdb
+C:\Users\Nevin.Danielson\source\repos\WarriorBattle\WarriorBattle\obj\Debug\WarriorBattle.exe
+C:\Users\Nevin.Danielson\source\repos\WarriorBattle\WarriorBattle\obj\Debug\WarriorBattle.pdb

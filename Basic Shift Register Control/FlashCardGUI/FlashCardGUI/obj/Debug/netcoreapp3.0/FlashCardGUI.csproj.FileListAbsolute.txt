@@ -1,0 +1,11 @@
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\bin\Debug\netcoreapp3.0\FlashCardGUI.exe
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\bin\Debug\netcoreapp3.0\FlashCardGUI.deps.json
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\bin\Debug\netcoreapp3.0\FlashCardGUI.runtimeconfig.json
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\bin\Debug\netcoreapp3.0\FlashCardGUI.runtimeconfig.dev.json
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\bin\Debug\netcoreapp3.0\FlashCardGUI.dll
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\bin\Debug\netcoreapp3.0\FlashCardGUI.pdb
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\obj\Debug\netcoreapp3.0\FlashCardGUI.csprojAssemblyReference.cache
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\obj\Debug\netcoreapp3.0\FlashCardGUI.AssemblyInfoInputs.cache
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\obj\Debug\netcoreapp3.0\FlashCardGUI.AssemblyInfo.cs
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\obj\Debug\netcoreapp3.0\FlashCardGUI.dll
+C:\Users\Nevin.Danielson\source\repos\FlashCardGUI\FlashCardGUI\obj\Debug\netcoreapp3.0\FlashCardGUI.pdb

@@ -1,0 +1,75 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace AOC_Day_3
+
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //
+            var numbers = new List<int>();
+            for (int i = 156218; i <= 652527; i++)
+            {
+                numbers.Add(i);
+            }
+            var eligiblePasswords = from num in numbers
+                                    where ((IsAscending(num)) && (HasAnIsolatedPair(num)))
+                                    select num;
+            Console.WriteLine($"The number of possible passwords in the range that fit the criteria are: {eligiblePasswords.Count()}.");
+        }
+
+        static bool IsAscending(int num)
+        {
+            int count = 0;
+            int[] numberAsArray = createArrayFromNumber(num);
+            for (int i = 0; i < numberAsArray.Length - 1; i++)
+            {
+                if (numberAsArray[i] <= numberAsArray[i + 1])
+                    count++;
+                if (count == 5)
+                    return true;
+            }
+            return false;
+        }
+
+        static bool HasAnIsolatedPair(int num)
+        {
+            int[] numberAsArray = createArrayFromNumber(num);
+            int notAnAllowedMatch = 0;
+            for (int i = 0; i < numberAsArray.Length - 1; i++)
+            {
+                if ((i < numberAsArray.Length - 1) && (numberAsArray[i] == numberAsArray[i + 1]))
+                {
+                    if ((i < numberAsArray.Length - 2) && (numberAsArray[i] == numberAsArray[i + 2]))
+                    {
+                        notAnAllowedMatch = numberAsArray[i];
+                    }
+                    else if ((i < numberAsArray.Length - 2) && (numberAsArray[i]!=notAnAllowedMatch)) 
+                        return true;
+                    
+                    }
+
+                if ((i == numberAsArray.Length - 2) && (numberAsArray[i] == numberAsArray[i + 1]) && (numberAsArray[i] != notAnAllowedMatch))
+                    return true;
+                else if ((i == numberAsArray.Length - 1) && (numberAsArray[i] == numberAsArray[i + 1]) && (numberAsArray[i] == notAnAllowedMatch))
+                        return false;
+            }
+            return false;
+        }
+            static int[] createArrayFromNumber(int number)
+            {
+                String str = new string(number.ToString());
+                char[] chArr = str.ToCharArray();
+                int[] arr = new int[chArr.Length];
+                for (int i = 0; i < chArr.Length; i++)
+                {
+                    arr[i] = chArr[i] - '0';
+                }
+                return arr;
+            }
+        }
+    }
+

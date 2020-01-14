@@ -1,0 +1,3 @@
+C:\Users\Nevin.Danielson\source\repos\Role Player Game\Role Player Game\obj\Debug\netcoreapp3.0\Role Player Game.AssemblyInfoInputs.cache
+C:\Users\Nevin.Danielson\source\repos\Role Player Game\Role Player Game\obj\Debug\netcoreapp3.0\Role Player Game.AssemblyInfo.cs
+C:\Users\Nevin.Danielson\source\repos\Role Player Game\Role Player Game\obj\Debug\netcoreapp3.0\Role Player Game.csprojAssemblyReference.cache
