@@ -1,6 +1,0 @@
-C:\Users\Nevin.Danielson\source\repos\ReusableConsoleSpace\ReusableConsoleSpace\bin\Debug\ReusableConsoleSpace.exe.config
-C:\Users\Nevin.Danielson\source\repos\ReusableConsoleSpace\ReusableConsoleSpace\bin\Debug\ReusableConsoleSpace.exe
-C:\Users\Nevin.Danielson\source\repos\ReusableConsoleSpace\ReusableConsoleSpace\bin\Debug\ReusableConsoleSpace.pdb
-C:\Users\Nevin.Danielson\source\repos\ReusableConsoleSpace\ReusableConsoleSpace\obj\Debug\CSharpBootCamp.csprojAssemblyReference.cache
-C:\Users\Nevin.Danielson\source\repos\ReusableConsoleSpace\ReusableConsoleSpace\obj\Debug\ReusableConsoleSpace.exe
-C:\Users\Nevin.Danielson\source\repos\ReusableConsoleSpace\ReusableConsoleSpace\obj\Debug\ReusableConsoleSpace.pdb

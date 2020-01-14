@@ -1,2 +1,0 @@
-C:\Users\Nevin.Danielson\source\repos\RolePlayerDLL\RolePlayerGame\obj\Debug\netcoreapp3.0\RolePlayerGame.AssemblyInfoInputs.cache
-C:\Users\Nevin.Danielson\source\repos\RolePlayerDLL\RolePlayerGame\obj\Debug\netcoreapp3.0\RolePlayerGame.AssemblyInfo.cs
